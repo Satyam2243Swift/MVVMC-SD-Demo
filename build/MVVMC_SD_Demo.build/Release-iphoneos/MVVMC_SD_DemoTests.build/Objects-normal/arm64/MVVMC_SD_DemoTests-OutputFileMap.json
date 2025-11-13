@@ -1,0 +1,21 @@
+{
+  "" : {
+    "const-values" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_DemoTests.build/Objects-normal/arm64/MVVMC_SD_DemoTests-primary.swiftconstvalues",
+    "dependencies" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_DemoTests.build/Objects-normal/arm64/MVVMC_SD_DemoTests-primary.d",
+    "diagnostics" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_DemoTests.build/Objects-normal/arm64/MVVMC_SD_DemoTests-primary.dia",
+    "emit-module-dependencies" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_DemoTests.build/Objects-normal/arm64/MVVMC_SD_DemoTests-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_DemoTests.build/Objects-normal/arm64/MVVMC_SD_DemoTests-primary-emit-module.dia",
+    "pch" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_DemoTests.build/Objects-normal/arm64/MVVMC_SD_DemoTests-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_DemoTests.build/Objects-normal/arm64/MVVMC_SD_DemoTests-primary.swiftdeps"
+  },
+  "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/MVVMC_SD_DemoTests/HoldingsAPIServiceTests.swift" : {
+    "index-unit-output-path" : "/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_DemoTests.build/Objects-normal/arm64/HoldingsAPIServiceTests.o",
+    "llvm-bc" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_DemoTests.build/Objects-normal/arm64/HoldingsAPIServiceTests.bc",
+    "object" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_DemoTests.build/Objects-normal/arm64/HoldingsAPIServiceTests.o"
+  },
+  "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/MVVMC_SD_DemoTests/HoldingsViewModelTests.swift" : {
+    "index-unit-output-path" : "/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_DemoTests.build/Objects-normal/arm64/HoldingsViewModelTests.o",
+    "llvm-bc" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_DemoTests.build/Objects-normal/arm64/HoldingsViewModelTests.bc",
+    "object" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_DemoTests.build/Objects-normal/arm64/HoldingsViewModelTests.o"
+  }
+}

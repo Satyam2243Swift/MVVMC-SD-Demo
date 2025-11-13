@@ -3,8 +3,19 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 77;
+	objectVersion = 55;
+    compatibilityVersion = "Xcode 16.0";
 	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		90A45CAB2EC47082007BB668 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 90A45C5C2EC4662C007BB668 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 90A45C632EC4662C007BB668;
+			remoteInfo = MVVMC_SD_Demo;
+		};
+/* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		90A45C642EC4662C007BB668 /* MVVMC_SD_Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MVVMC_SD_Demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -186,6 +197,14 @@
 		};
 /* End PBXSourcesBuildPhase section */
 
+/* Begin PBXTargetDependency section */
+		90A45CAC2EC47082007BB668 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 90A45C632EC4662C007BB668 /* MVVMC_SD_Demo */;
+			targetProxy = 90A45CAB2EC47082007BB668 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
 /* Begin XCBuildConfiguration section */
 		90A45C782EC4662F007BB668 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -215,7 +234,7 @@
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
-				SWIFT_VERSION = 5.10;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -248,7 +267,7 @@
 				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
-				SWIFT_VERSION = 5.10;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -306,7 +325,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 26.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -364,7 +383,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 26.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -452,24 +471,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin PBXContainerItemProxy section */
-		90A45CAB2EC47082007BB668 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 90A45C5C2EC4662C007BB668 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 90A45C632EC4662C007BB668 /* MVVMC_SD_Demo */;
-			remoteInfo = MVVMC_SD_Demo;
-		};
-/* End PBXContainerItemProxy section */
-
-/* Begin PBXTargetDependency section */
-		90A45CAC2EC47082007BB668 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 90A45C632EC4662C007BB668 /* MVVMC_SD_Demo */;
-			targetProxy = 90A45CAB2EC47082007BB668 /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 	};
 	rootObject = 90A45C5C2EC4662C007BB668 /* Project object */;
 }

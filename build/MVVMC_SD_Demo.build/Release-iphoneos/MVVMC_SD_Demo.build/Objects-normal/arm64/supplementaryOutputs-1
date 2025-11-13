@@ -1,0 +1,12 @@
+{
+  "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/MVVMC_SD_Demo/Coordinators/AppCoordinator.swift" : {
+    "abi-baseline-json" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/MVVMC_SD_Demo.abi.json",
+    "const-values" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/MVVMC_SD_Demo-primary.swiftconstvalues",
+    "dependencies" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/MVVMC_SD_Demo-primary.d",
+    "diagnostics" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/MVVMC_SD_Demo-primary.dia",
+    "objc-header" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/MVVMC_SD_Demo-Swift.h",
+    "swiftdoc" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/MVVMC_SD_Demo.swiftdoc",
+    "swiftmodule" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/MVVMC_SD_Demo.swiftmodule",
+    "swiftsourceinfo" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/MVVMC_SD_Demo.swiftsourceinfo"
+  }
+}

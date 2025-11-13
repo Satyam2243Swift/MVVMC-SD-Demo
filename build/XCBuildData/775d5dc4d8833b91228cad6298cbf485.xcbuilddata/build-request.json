@@ -1,0 +1,47 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "bc53a87435aef5c6c0cd06ada8ea06d908cb613c1a9d6af61795846c48caa4a9"
+    },
+    {
+      "guid" : "bc53a87435aef5c6c0cd06ada8ea06d994f89a036be41007825435987e9122c3"
+    },
+    {
+      "guid" : "bc53a87435aef5c6c0cd06ada8ea06d908cb613c1a9d6af61795846c48caa4a9"
+    }
+  ],
+  "containerPath" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/MVVMC_SD_Demo.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "COLOR_DIAGNOSTICS" : "YES",
+          "diagnostic_message_length" : "80",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

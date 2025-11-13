@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'MVVMC_SD_DemoTests' in project 'MVVMC_SD_Demo'
+➜ Explicit dependency on target 'MVVMC_SD_Demo' in project 'MVVMC_SD_Demo'
+Target 'MVVMC_SD_Demo' in project 'MVVMC_SD_Demo' (no dependencies)

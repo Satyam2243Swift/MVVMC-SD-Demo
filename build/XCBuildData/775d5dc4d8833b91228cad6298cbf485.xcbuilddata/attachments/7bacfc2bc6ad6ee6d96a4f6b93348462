@@ -1,0 +1,91 @@
+{
+  "" : {
+    "const-values" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/MVVMC_SD_Demo-primary.swiftconstvalues",
+    "dependencies" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/MVVMC_SD_Demo-primary.d",
+    "diagnostics" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/MVVMC_SD_Demo-primary.dia",
+    "emit-module-dependencies" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/MVVMC_SD_Demo-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/MVVMC_SD_Demo-primary-emit-module.dia",
+    "pch" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/MVVMC_SD_Demo-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/MVVMC_SD_Demo-primary.swiftdeps"
+  },
+  "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/MVVMC_SD_Demo/AppDelegate.swift" : {
+    "index-unit-output-path" : "/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/AppDelegate.o"
+  },
+  "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/MVVMC_SD_Demo/Coordinators/AppCoordinator.swift" : {
+    "index-unit-output-path" : "/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/AppCoordinator.o",
+    "llvm-bc" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/AppCoordinator.bc",
+    "object" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/AppCoordinator.o"
+  },
+  "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/MVVMC_SD_Demo/Coordinators/Coordinator.swift" : {
+    "index-unit-output-path" : "/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/Coordinator.o",
+    "llvm-bc" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/Coordinator.bc",
+    "object" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/Coordinator.o"
+  },
+  "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/MVVMC_SD_Demo/DependencyInjection/DIContainerProtocol.swift" : {
+    "index-unit-output-path" : "/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/DIContainerProtocol.o",
+    "llvm-bc" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/DIContainerProtocol.bc",
+    "object" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/DIContainerProtocol.o"
+  },
+  "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/MVVMC_SD_Demo/Extensions/Extension.swift" : {
+    "index-unit-output-path" : "/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/Extension.o",
+    "llvm-bc" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/Extension.bc",
+    "object" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/Extension.o"
+  },
+  "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/MVVMC_SD_Demo/Models/HoldingsResponse.swift" : {
+    "index-unit-output-path" : "/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/HoldingsResponse.o",
+    "llvm-bc" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/HoldingsResponse.bc",
+    "object" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/HoldingsResponse.o"
+  },
+  "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/MVVMC_SD_Demo/Networking/HoldingsAPIService.swift" : {
+    "index-unit-output-path" : "/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/HoldingsAPIService.o",
+    "llvm-bc" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/HoldingsAPIService.bc",
+    "object" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/HoldingsAPIService.o"
+  },
+  "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/MVVMC_SD_Demo/Networking/HoldingsCache.swift" : {
+    "index-unit-output-path" : "/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/HoldingsCache.o",
+    "llvm-bc" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/HoldingsCache.bc",
+    "object" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/HoldingsCache.o"
+  },
+  "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/MVVMC_SD_Demo/SceneDelegate.swift" : {
+    "index-unit-output-path" : "/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/SceneDelegate.o"
+  },
+  "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/MVVMC_SD_Demo/ViewModels/HoldingsViewModel.swift" : {
+    "index-unit-output-path" : "/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/HoldingsViewModel.o",
+    "llvm-bc" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/HoldingsViewModel.bc",
+    "object" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/HoldingsViewModel.o"
+  },
+  "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/MVVMC_SD_Demo/Views/FooterView.swift" : {
+    "index-unit-output-path" : "/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/FooterView.o",
+    "llvm-bc" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/FooterView.bc",
+    "object" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/FooterView.o"
+  },
+  "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/MVVMC_SD_Demo/Views/HoldingCell.swift" : {
+    "index-unit-output-path" : "/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/HoldingCell.o",
+    "llvm-bc" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/HoldingCell.bc",
+    "object" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/HoldingCell.o"
+  },
+  "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/MVVMC_SD_Demo/Views/HoldingsViewController.swift" : {
+    "index-unit-output-path" : "/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/HoldingsViewController.o",
+    "llvm-bc" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/HoldingsViewController.bc",
+    "object" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/HoldingsViewController.o"
+  },
+  "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/MVVMC_SD_Demo/Views/SummaryRowView.swift" : {
+    "index-unit-output-path" : "/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/SummaryRowView.o",
+    "llvm-bc" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/SummaryRowView.bc",
+    "object" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/SummaryRowView.o"
+  },
+  "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/MVVMC_SD_Demo/Views/SummaryView.swift" : {
+    "index-unit-output-path" : "/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/SummaryView.o",
+    "llvm-bc" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/SummaryView.bc",
+    "object" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/SummaryView.o"
+  },
+  "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/satyamdixit/Desktop/DEMO/MVVMC_SD_Demo/build/MVVMC_SD_Demo.build/Release-iphoneos/MVVMC_SD_Demo.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  }
+}
