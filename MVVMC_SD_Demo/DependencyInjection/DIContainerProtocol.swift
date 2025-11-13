@@ -23,7 +23,7 @@ final class DIContainer: DIContainerProtocol {
         return HoldingsAPIService()
     }
     
-    @MainActor func makeHoldingsViewModel() -> HoldingsViewModel {
+    func makeHoldingsViewModel() -> HoldingsViewModel {
         let service = makeHoldingsService()
         return HoldingsViewModel(service: service)
     }
