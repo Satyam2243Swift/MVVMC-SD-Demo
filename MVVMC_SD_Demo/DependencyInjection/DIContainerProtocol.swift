@@ -13,7 +13,8 @@ protocol DIContainerProtocol {
     func makeHoldingsViewModel() -> HoldingsViewModel
 }
 
-final class DIContainer: @MainActor DIContainerProtocol {
+@MainActor
+final class DIContainer: DIContainerProtocol {
     static let shared = DIContainer()
     
     private init() {}
